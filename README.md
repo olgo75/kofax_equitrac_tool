@@ -1,0 +1,1 @@
+# kofax_equitrac_tool
